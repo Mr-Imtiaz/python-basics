@@ -1,3 +1,4 @@
+ A script that demonstrates different data types in Python, including integers, floats, strings, and lists.
 # data_types.py
 # Demonstrating different data types in Python
 
