@@ -1,3 +1,4 @@
+Examples of control structures in Python, including if-else statements and loops (for and while).
 # control_structures.py
 # Examples of control structures in Python
 
